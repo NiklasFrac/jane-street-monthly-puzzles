@@ -8,6 +8,13 @@ I only upload solutions for correct submissions listed under my name on the lead
 
 Each puzzle is stored in its own folder, typically named by year and month.
 
+## Contents
+
+- [2025-09 Hooks 11](./2025-09-hooks-11/)
+- [2025-12 Robot Javelin](./2025-12-robot-javelin/)
+- [2026-02 Subtiles 2](./2026-02-subtiles-2/)
+- [2026-03 Planetary Parade](./2026-03-planetary-parade/)
+  
 ## Notes
 
 Each puzzle folder may contain some combination of:
