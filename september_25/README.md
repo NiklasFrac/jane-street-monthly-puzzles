@@ -25,7 +25,4 @@ For the actual solving, I combined manual deductions with trial and error.
 Final answer: **1620**
 ![Final Grid](final_grid.PNG)
 
-## Note
 
-Published after the official Jane Street solution was available.
-Jane Street lists my submission among the correct solutions for Hooks 11.
